@@ -1,0 +1,1 @@
+A personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects, skills, and learning journey. It features a clean design, responsive layout, and easy navigation for a professional presentation.
